@@ -1,1 +1,0 @@
-# Script-s-human-Kebab.lua
